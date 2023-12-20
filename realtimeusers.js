@@ -18,7 +18,7 @@ Repeated abuse of this service will result in the removal of your website.
     };
     
     var _initElement = function() {
-      var inner = '<div class="realtimeuserscounter__num">&mdash;
+      var inner = '<div class="realtimeuserscounter__num">&訪客人數&mdash;
       
       
       Array.prototype.forEach.call(_counters, function(counter) {
