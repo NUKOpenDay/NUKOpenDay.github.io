@@ -1684,7 +1684,7 @@ input, select, textarea {
           overflow: hidden; /* 避免長方框下面顯示不正常 */
         }
         .rescard{
-          width: 40%;
+          width: 30%;
           float:left; /* 圖片在左邊 */
           padding: 20px;
         }
@@ -1694,6 +1694,6 @@ input, select, textarea {
         }
         .restext{
           float: right;  /* 文字在右邊 */
-          width: 60%;
+          width: 70%;
           padding: 20px 0px 0px 20px;
         }
