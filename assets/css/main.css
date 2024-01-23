@@ -1694,6 +1694,6 @@ input, select, textarea {
         }
         .restext{
           float: right;  /* 文字在右邊 */
-          width: 100%;
+          width: 300px;
           padding: 20px 0px 0px 20px;
         }
