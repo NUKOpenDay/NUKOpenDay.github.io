@@ -1678,13 +1678,13 @@ input, select, textarea {
 	
 /* res */
 	.res{
-          width: 550px;
+          width: 100%;
           margin: 50px auto;
           border:solid 1px black;
           overflow: hidden; /* 避免長方框下面顯示不正常 */
         }
         .rescard{
-          width: 195px;
+          width: 45%;
           float:left; /* 圖片在左邊 */
           padding: 20px;
         }
@@ -1694,6 +1694,6 @@ input, select, textarea {
         }
         .restext{
           float: right;  /* 文字在右邊 */
-          width: 350px;
+          width: 100%;
           padding: 20px 0px 0px 20px;
         }
