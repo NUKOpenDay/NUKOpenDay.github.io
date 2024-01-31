@@ -1697,3 +1697,25 @@ input, select, textarea {
           width: 100%;
           padding: 00px 0px 0px 20px;
         }
+        
+/* teacher */
+	.teacher{
+          width: 100%;
+          margin: 50px auto;
+          border:solid 1px black;
+          overflow: hidden; /* 避免長方框下面顯示不正常 */
+        }
+        .teachercard{
+          width: 40%;
+          float:left; /* 圖片在左邊 */
+          padding: 20px;
+        }
+        .teachercard img{
+          display: block;
+          width:100%;
+        }
+        .teachertext{
+          float: right;  /* 文字在右邊 */
+          width: 60%;
+          padding: 20px 20px 0px 0px;
+        }
